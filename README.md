@@ -25,6 +25,11 @@ Currently, Panorama 1.0 includes cancer data from 10,110 samples, covering 19 ca
 <img src="https://github.com/user-attachments/assets/c593b213-9f42-416c-8084-4dd991583a71" width="400">
 
 
+## Pre-calculated data
+[Panorama_v1.0.0](https://zenodo.org/records/13917575/files/PANORAMA_v1.0.0.parquet?download=1)
+`
+md5:4b4cdb21c8eafe26d70bf5f7700c6025 
+`
 
 ## Funding
 This research was supported by the grant (2017M3A9A7050615) from the Ministry of Sci-ence and ICT (MSIT), and the KRIBB Research Initiative Program (KGM5192531).
