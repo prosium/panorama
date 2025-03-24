@@ -7,9 +7,6 @@ Seung-Jin Park, prosium at kribb dot re dot kr
 
 Seon-Young Kim, sykim at kribb dot re dot kr
 
-## Citation
-[2025, Feb, Genomics, Proteomics & Bioinformatics, Submitted](https://academic.oup.com/gpb)
-
 
 ## Brief Description
 Panorama is a web-based database for evaluating somatic mutation in cancer. 
