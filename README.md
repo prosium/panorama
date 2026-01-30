@@ -1,7 +1,6 @@
 # Panorama: A Database for the Oncogenic Evaluation of Somatic Mutations in Pan-Cancer
 [Web-based database Panorama](http://139.150.65.64:8080/)
 
-
 ## Authors
 Seung-Jin Park, prosium at kribb dot re dot kr
 
@@ -9,7 +8,7 @@ Seon-Young Kim, sykim at kribb dot re dot kr
 
 
 ## Brief Description
-Panorama is a web-based database for evaluating somatic mutation in cancer. 
+Panorama([paper](https://academic.oup.com/database/article/doi/10.1093/database/baaf086/8426902)) is a web-based database for evaluating somatic mutation in cancer. 
 
 The Panorama presents a continually updated analysis of all available cancer proteogenomic or multiomics data from many papers and consortiums including TCGA, CPTAC, or PCAWG. 
 
@@ -30,4 +29,7 @@ md5:4b4cdb21c8eafe26d70bf5f7700c6025
 
 ## Funding
 This research was supported by the grant (2017M3A9A7050615) from the Ministry of Sci-ence and ICT (MSIT), and the KRIBB Research Initiative Program (KGM5192531).
+
+## Citation
+Park, Seung-Jin, and Seon-Young Kim. "Panorama: a database for the oncogenic evaluation of somatic mutations in pan-cancer." Database 2026 (2026): baaf086.
 
