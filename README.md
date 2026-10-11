@@ -1,5 +1,5 @@
 # Panorama: A Database for the Oncogenic Evaluation of Somatic Mutations in Pan-Cancer
-[Web-based database Panorama](http://139.150.65.64:8080/)
+[Web-based database Panorama](http://211.233.8.70:8080/)
 
 ## Authors
 Seung-Jin Park, prosium at kribb dot re dot kr
